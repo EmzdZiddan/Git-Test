@@ -1,1 +1,2 @@
-1.update dari crit
+-INI ADALAH DOKUMENTASI
+
